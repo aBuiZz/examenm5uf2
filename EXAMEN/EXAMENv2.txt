@@ -2,4 +2,4 @@
 (creem l'arxiu EXAMENv2 dincs de EXAMEN)
 git add . 
 git commit -m "Versio 2 acabada"
-git push origin 
+git push origin master
