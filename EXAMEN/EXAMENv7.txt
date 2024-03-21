@@ -1,0 +1,4 @@
+(modifiquem la copia)
+git add . 
+git commit -m "Versio 7 acabada"
+git push origin inprogress

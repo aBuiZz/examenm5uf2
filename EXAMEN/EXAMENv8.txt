@@ -1,0 +1,8 @@
+git checkout master
+git merge inprogress
+git push origin master
+git branch -d inprogress
+git push origin --delete inprogress
+git add .
+git commit -m "Versio 8 acabada"
+git push origin master
