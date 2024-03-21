@@ -1,0 +1,5 @@
+(creem un fitxer LICENSE i la copiem d'aquesta url: https://choosealicense.com/licenses/mpl-2.0/)
+(creem l'arxiu EXAMENv2 dincs de EXAMEN)
+git add . 
+git commit -m "Versio 2 acabada"
+git push origin 

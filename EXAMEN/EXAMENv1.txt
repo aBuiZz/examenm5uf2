@@ -12,3 +12,4 @@ git remote add origin https://github.com/aBuiZz/examenm5uf2.git
 git push origin master
 git add EXAMEN/EXAMENv1.txt
 git commit -m "Versio 1 acabada"
+git push origin master
