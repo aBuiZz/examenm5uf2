@@ -1,0 +1,5 @@
+(descarreguem el zip i introduim el descomprimit dins la carpeta arrel)
+(creem EXAMENv3)
+git add .
+git commit -m "Versio 3 acabada"
+git push origin master
