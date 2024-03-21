@@ -1,0 +1,7 @@
+git branch inprogress
+git checkout inprogress
+(fem una copia de la carpeta del html i la modifiquem)
+git add . 
+git commit -m "Versio 6 acabada"
+git push origin inprogress
+
