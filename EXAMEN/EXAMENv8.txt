@@ -1,5 +1,6 @@
 git checkout master
 git merge inprogress
+git commit -m "Ajuntar branques"
 git push origin master
 git branch -d inprogress
 git push origin --delete inprogress
