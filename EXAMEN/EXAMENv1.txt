@@ -1,0 +1,7 @@
+mkdir examenm5uf2
+cd examenm5uf2
+git init
+(creem el README i el COPYRIGHT)
+mkdir EXAMEN
+cd EXAMEN
+(creem el EXAMENv1)

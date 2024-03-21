@@ -1,0 +1,1 @@
+Això és l'examen de git de m5uf2. Avui és 21/03/2024
