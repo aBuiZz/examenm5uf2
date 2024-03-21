@@ -5,3 +5,9 @@ git init
 mkdir EXAMEN
 cd EXAMEN
 (creem el EXAMENv1)
+cd ..
+git add .
+git commit -m "Primers passos"
+git remote add origin https://github.com/aBuiZz/examenm5uf2.git
+git push origin master
+git commit -m "Versio 1 acabada"
