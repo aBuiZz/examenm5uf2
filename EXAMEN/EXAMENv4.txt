@@ -1,0 +1,4 @@
+(modifiquem al vscode els arxius)
+git add .
+git commit -m "Versio 4 acabada"
+git push origin master
